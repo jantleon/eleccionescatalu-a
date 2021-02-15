@@ -1,1 +1,3 @@
-# eleccionescataluna
+In this project I analyse catalonian parties' manifestos for 2021 regional election. I use tf-idf, a statistic that shows the importance of a word in a single document compared to a set of documents. This statistic helps us to know what are the main words (or topics) expressed by each political party on its manifesto in comparison to other parties ones.
+
+![](https://github.com/jantleon/eleccionescataluna/blob/master/tfidf_partidos.png?raw=true)
